@@ -97,14 +97,4 @@ print()
 
 
 
-print("welcome to Henderson pizza hut")
-#making the lists
-available_pizzas = ['margarita', 'pollo', '4cheese', 'bolognese', 'vegetarian', 'Beef & Onion', 'Seafood Deluxe', 'Summer Shrimp ', 'BBQ Bacon & Mushroom ','BBQ Hawaiian ','Italiano']
-available_toppings = ['mushroom', 'onions', 'green pepper', 'extra cheese']
-pizza_prices = {'margarita': 8.50, 'pollo': 8.50, '4cheese': 8.50, 'bolognese': 8.50, 'vegetarian': 8.50, 'Beef & Onion': 13.50, 'Seafood Deluxe': 13.50, 'Summer Shrimp ': 13.50, 'BBQ Bacon & Mushroom ': 13.50, 'BBQ Hawaiian ': 13.50, 'Italiano': 13.50}
-topping_prices = {'mushroom':0.50, 'onions': 0.50, 'green pepper':0.50, 'extra cheese':0.50}
-sub_total = []
-final_order = {}
-customer_adress = {}
-
    
